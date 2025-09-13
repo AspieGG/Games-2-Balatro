@@ -9,4 +9,5 @@ to self-destruct, but gives its money BEFORE each card is scored, and gives the 
 page 14: Lucario does not work. Mirabelle triggers only once even with Incantation and other spectrals. Mourning Wood seems to erroneously only trigger once per round. Muffet correctly sets joker slots, but if
 the amount of joker slots later changes, getting rid of Muffet will set your slots to the incorrect value. Ponman does not have double scaling on the first hand of round and does not score. Pyrefly Forest crashes
 when the 8th card is discarded.
-page 15: Queen Bee triggers only once, then turns off permanently
+page 15: Queen Bee triggers only once, then turns off permanently. Ruuins Mouse Hole triggers at the wrong time, but otherwise functions perfectly. Sapling has the wrong card art. Scarlet Forrest does not change suits. Spectral Dagger still triggers when on the rightmost spot. Star Crystals triggers BEFORE the triggering card is scored. Temmie Armor crashes when attempting to raise sell value. Check if Tropius RNG is bugged
+page 16: Wicabel does not work. Worn Dagger destroys a Joker, but does not scale
