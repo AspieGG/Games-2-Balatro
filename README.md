@@ -1,6 +1,6 @@
 v5 known issues
 
-page 11: 
+page 11: Blunder Policy does not work, likely to be temporarily scrapped. Choco Diamond refuses to scale down to x1.08. Chop Shop does not produce a Blueprint, probably only when slots are full
 
 page 12: 
 
